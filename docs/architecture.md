@@ -5,6 +5,6 @@ Telegram is a cloud-based, cross-platform instant messaging service focused on s
 
 ![Telegram Component Diagram](./diagrams/out/telegram/component-diagram/Component Diagram.svg)
 
-![Telegram Deployment Diagram](./diagrams/src/telegram/deployment-diagram.puml)
+![Telegram Deployment Diagram](./diagrams/out/telegram/deployment-diagram/Deployment Diagram.svg)
 
-![Telegram Sequence Diagram](./diagrams/src/telegram/sequence-diagram.puml)
+![Telegram Sequence Diagram](./diagrams/out/telegram/sequence-diagram/Sequence Diagram.svg)
